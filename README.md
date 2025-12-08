@@ -43,6 +43,8 @@ ByteCheckpoint is easy to use and efficient with:
 ✔ **Comprehensive Toolset**: Provides utilities for checkpoint merging/conversion/modification and metadata/tensor file inspection. Enables flexible checkpoint transfer and management.
 
 ## 📰 News
+[2025/8] ByteCheckpoint supports the MUSA platform.
+
 [2025/04] We officially released ByteCheckpoint! 🔥 
 
 [2024/12] ByteCheckpoint is accepted to NSDI 2025.
